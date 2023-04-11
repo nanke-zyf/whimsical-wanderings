@@ -1,0 +1,19 @@
+{
+  "name": "whimsical-wanderings",
+  "version": "1.0.0",
+  "description": "个人成长与生活记录",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanke-zyf/whimsical-wanderings.git"
+  },
+  "author": "zhangyifan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nanke-zyf/whimsical-wanderings/issues"
+  },
+  "homepage": "https://github.com/nanke-zyf/whimsical-wanderings#readme"
+}
